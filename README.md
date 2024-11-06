@@ -1,5 +1,15 @@
-# Allure Cucumber 7 JVM example
+# Allure Example
 
-This project uses Gradle KTS, TestNG and Java 11
+> Example of Allure Report usage with Cucumber-JVM, TestNG and Gradle (Kotlin)
 
-The generated report available here: https://allure-examples.github.io/allure-cucumber7-testng-gradle-kts
+<!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
+
+- Learn more about Allure Report at https://allurereport.org
+- 📚 [Documentation](https://allurereport.org/docs/) – discover official documentation for Allure Report
+- ❓ [Questions and Support](https://github.com/orgs/allure-framework/discussions/categories/questions-support) – get help from the team and community
+- 📢 [Official annoucements](https://github.com/orgs/allure-framework/discussions/categories/announcements) – be in touch with the latest updates
+- 💬 [General Discussion ](https://github.com/orgs/allure-framework/discussions/categories/general-discussion) – engage in casual conversations, share insights and ideas with the community
+
+---
+
+The generated report is available here: [https://allure-examples.github.io/cucumberjvm-testng-gradlekts](https://allure-examples.github.io/cucumberjvm-testng-gradlekts/)
